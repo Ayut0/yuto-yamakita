@@ -474,4 +474,6 @@ xxx
 ### 資格
   - TOEIC 795点(2021年7月取得)
   - CELPIP Overall 8 (IELTS 6.5相当)　※カナダの移民局が定める基準に従って換算しました。
-  　
+
+- [YOUTRUST](https://youtrust.jp/users/yuto-yamakita)
+- [LinkedIn](https://www.linkedin.com/in/yuto-yamakita/)
