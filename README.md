@@ -6,7 +6,7 @@
 
 # 職務経歴書
 
-準備中
+- [Webページ](https://ayut0.github.io/yuto-yamakita/)
 
 # 私について
 
