@@ -9,7 +9,7 @@
 | 居住地   | 三重県（東京エリアに引越し予定）        |
 | 最終学歴 | 名城大学 理工学部　メカトロニクス工学科 |
 
-業界未経験の状態で2021 年からカナダのバンクーバーに渡航し、現地の専門学校で Web 開発の基礎を学びました。
+業界未経験の状態で　2021 年からカナダのバンクーバーに渡航し、現地の専門学校で Web 開発の基礎を学びました。
 
 卒業後は日本およびカナダの企業にてソフトウェアエンジニアとして就労しています。
 
@@ -31,7 +31,7 @@
 
 ### フレームワーク等
 
-- React.js, Next.js, FastAPI, TailwindCSS, MUI, Framer Motion
+- React, Next.js, FastAPI, TailwindCSS, MUI, Framer Motion
 
 ### 通信プロトコル
 
@@ -43,7 +43,7 @@
 
 ### SaaS/PaaS
 
-- Github, Github Actions, MongoDB, Firebase, Supabase
+- GitHub, GitHub Actions, MongoDB, Firebase, Supabase
 
 ### その他
 
@@ -95,7 +95,7 @@
 
 【ツール】
 
-- Docker, Github, Github Actions, PostgresSQL, OpenAPI, Storybook, eslint, Figma（デザイン確認のみ）, DBeaver
+- Docker, GitHub, GitHub Actions, PostgreSQL, OpenAPI, Storybook, ESLint, Figma（デザイン確認のみ）, DBeaver
 
 【コミュニケーション】
 
@@ -115,7 +115,7 @@
 
 特定の条件に一致する不動産を探索し、法務局の登記データをから所有者情報を取得する。
 
-取得した不動産情報は一元管理が可能で、商談状況などを記録することができ営業活動の効率化に貢献。
+取得した不動産情報は一元管理が可能で、商談状況などを記録ができ営業活動の効率化に貢献。
 
 【チームの特徴・課題】
 
@@ -147,7 +147,7 @@ Unit test を書いていなかったためバグの検知がチームメンバ�
 【成果】
 
 - フロントエンドに Unit test を導入し、バグの検知を手動に頼らないようにした
-- Github Actions を用いて PR の担当者アサインを自動化
+- GitHub Actions を用いて PR の担当者アサインを自動化
 - フロントエンドの処理の中で画面に表示させるまでに 10 秒以上かかっていた処理を 3 秒弱に短縮
 
 ### Fresh Tracks Canada
@@ -188,7 +188,7 @@ Unit test を書いていなかったためバグの検知がチームメンバ�
 
 【ツール】
 
-- Github, Github Actions, Storybook, eslint, Figma（デザイナーとのデザイン確認のみ）
+- GitHub, GitHub Actions, Storybook, ESLint, Figma（デザイナーとのデザイン確認のみ）
 
 【コミュニケーション】
 
@@ -254,7 +254,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【言語・フレームワーク】
 
-- TypeScript, React.js, Liquid, TailwindCSS
+- TypeScript, React, Liquid, TailwindCSS
 
 【インフラ】
 
@@ -270,7 +270,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【ツール】
 
-- Docker, Github, Github Actions, eslint, Figma（デザイン確認のみ）
+- Docker, GitHub, GitHub Actions, ESLint, Figma（デザイン確認のみ）
 
 【コミュニケーション】
 
@@ -305,11 +305,11 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 - GraphQL を用いたカテゴリ表示の最適化
   - メンズ/レディースの親カテゴリに応じて表示させる子カテゴリを変更
   - GraphQL クエリを設計し API から適切なデータを取得できるようにする
-- React.js と TypeScript を用いたフロントエンドコンポーネントの実装
+- React と TypeScript を用いたフロントエンドコンポーネントの実装
 
 【成果】
 
-- React.js と TailwindCSS を用いて新規会員登録フォームにて入力必須項目が一目でわかるように実装。他のフォームでも使用できるように再利用可能なフロントエンドコンポーネントとして実装
+- React と TailwindCSS を用いて新規会員登録フォームにて入力必須項目が一目でわかるように実装。他のフォームでも使用できるように再利用可能なフロントエンドコンポーネントとして実装
 - 売り切れた商品の価格や写真が変更できる仕様になってしまっていたので、変更できないようにする
 - 属人化していた業務をドキュメントとして共有
 
@@ -323,7 +323,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【言語・フレームワーク】
 
-- TypeScript, Next.js React.js, TailwindCSS, PostgresSQL
+- TypeScript, Next.js React, TailwindCSS, PostgreSQL
 
 【インフラ】
 
@@ -339,7 +339,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【ツール】
 
-- Docker, Github, Github Actions, eslint, Figma（デザイナーとのデザイン確認のみ）, Sequel Pro
+- Docker, GitHub, GitHub Actions, ESLint, Figma（デザイナーとのデザイン確認のみ）, Sequel Pro
 
 【コミュニケーション】
 
@@ -367,14 +367,14 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 主なタスクは以下の通り
 
-- React.js と TypeScript を用いたフロントエンドコンポーネントの実装および新規機能の実装
+- React と TypeScript を用いたフロントエンドコンポーネントの実装および新規機能の実装
   - Uber eats order API を用いたデリバリーシステムの開発
   - TailwindCSS のクラス名が適切に使用されていなかった箇所をリファクタリング
 - チームメンバーのコードレビュー
 
 【成果】
 
-- React.js と TailwindCSS, Uber eats order API を用いたデリバリーシステムの開発
+- React と TailwindCSS, Uber eats order API を用いたデリバリーシステムの開発
 - 既存のログイン/新規ユーザー登録ページを改修し、UX を向上
 
 ### eEPIC Events
@@ -413,7 +413,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【ツール】
 
-- Bitbucket, PostgresSQL, eslint, Figma（デザイナーとのデザイン確認のみ）
+- Bitbucket, PostgreSQL, ESLint, Figma（デザイナーとのデザイン確認のみ）
 
 【コミュニケーション】
 
@@ -486,7 +486,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【ツール】
 
-- Docker, Github, Github Actions, OpenAPI, TailwindCSS, Storybook, eslint, Figma（デザイナーとのデザイン確認のみ）, Zenhub, PGAdmin
+- Docker, GitHub, GitHub Actions, OpenAPI, TailwindCSS, Storybook, ESLint, Figma（デザイナーとのデザイン確認のみ）, Zenhub, PGAdmin
 
 【コミュニケーション】
 
@@ -531,10 +531,10 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【成果】
 
-- 20 個以上の再利用可能なフロントエンドコンポーネントを実装。
-- Google Core Web Vital のパフォーマンススコアを 40 から 80 に引き上げる。
-- i18next を用いて Web アプリの国際化を実装し、英語以外の言語を容易に追加できるようにする。
-- QA エンジニアと連携し、アプリケーションの機能の不具合やデザインとの不一致を分析し、30 箇所以上の問題を修正。
+- 20 個以上の再利用可能なフロントエンドコンポーネントを実装
+- Google Core Web Vital のパフォーマンススコアを 40 から 80 に引き上げる
+- i18next を用いて Web アプリの国際化を実装し、英語以外の言語を容易に追加できるようにする
+- QA エンジニアと連携し、アプリケーションの機能の不具合やデザインとの不一致を分析し、30 箇所以上の問題を修正
 
 ### SMC株式会社
 
@@ -558,14 +558,14 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【チームでの役割】
 
-従業員23,000名（連結）
+従業員 23,000 名（連結）
 
 同部署全体では50名のうち、メンバーとして参加。
 
 【成果】
 
-- 長年切り替えることができなかったロボットのパーツの競合製品を自社製品に切り替えることに成功。約400台の製品のオーダーを受注。
-- 2年かけてクライアントと信頼関係を構築し、競合製品の切り替えに成功。最終的に1,000台以上のオーダーを受注。
+- 長年切り替えることができなかったロボットのパーツの競合製品を自社製品に切り替えることに成功。約 400 台の製品のオーダーを受注。
+- 2 年かけてクライアントと信頼関係を構築し、競合製品の切り替えに成功。最終的に1,000 台以上のオーダーを受注。
 
 ## その他
 
