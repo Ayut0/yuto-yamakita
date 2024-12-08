@@ -95,11 +95,11 @@
 
 【ツール】
 
-- Docker, GitHub, GitHub Actions, PostgreSQL, OpenAPI, Storybook, ESLint, Figma（デザイン確認のみ）, DBeaver
+- Docker, GitHub, GitHub Actions, PostgreSQL, OpenAPI, Storybook, ESLint, Figma（デザイン確認のみ）, DBeaver, PGAdmin
 
 【コミュニケーション】
 
-- Slack
+- Slack, MetaLife（バーチャルオフィス）
 
 【ドキュメント】
 
@@ -339,7 +339,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【ツール】
 
-- Docker, GitHub, GitHub Actions, ESLint, Figma（デザイナーとのデザイン確認のみ）, Sequel Pro
+- Docker, GitHub, GitHub Actions, ESLint, Figma（デザイナーとのデザイン確認のみ）, Sequel Pro, Postman
 
 【コミュニケーション】
 
@@ -488,7 +488,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【ツール】
 
-- Docker, GitHub, GitHub Actions, OpenAPI, TailwindCSS, Storybook, ESLint, Figma（デザイナーとのデザイン確認のみ）, Zenhub, PGAdmin
+- Docker, GitHub, GitHub Actions, OpenAPI, TailwindCSS, Storybook, ESLint, Figma（デザイナーとのデザイン確認のみ）, Zenhub, PGAdmin, Postman
 
 【コミュニケーション】
 
