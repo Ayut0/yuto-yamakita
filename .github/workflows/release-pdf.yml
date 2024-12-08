@@ -1,0 +1,52 @@
+name: Release PDF
+
+on:
+  pull_request:
+    branches: [main]
+    paths: ['docs/README.md']
+  workflow_dispatch:
+
+jobs:
+  release:
+    name: Release PDF
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Run actions/checkout
+        uses: actions/checkout@v4
+      
+      # Add Chrome installation
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+          
+      # Add sandbox configuration
+      - name: Configure Chrome sandbox
+        run: |
+          sudo apt-get install -y libnss3-dev libgdk-pixbuf2.0-dev libgtk-3-dev libxss-dev
+          sudo sysctl -w kernel.unprivileged_userns_clone=1
+          
+      - name: Run oven-sh/setup-bun
+        uses: oven-sh/setup-bun@v2
+        
+      - name: Run bun install
+        run: bun install --no-save
+        
+      - name: Run bun build:pdf
+        run: bun build:pdf
+        env:
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: true
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+          
+      - name: Create a draft release
+        uses: softprops/action-gh-release@v2
+        with:
+          body: ${{ github.event.pull_request.title }}
+          draft: true
+          fail_on_unmatched_files: true
+          files: docs/README.pdf
+          name: Release ${{ github.ref }}
