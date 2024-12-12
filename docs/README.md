@@ -61,6 +61,9 @@
 - 【What is a Dependency Inversion Principle?】(https://medium.com/@yuvto.0420/what-is-a-dependency-inversion-principle-b14469d28167)
 - 【Introduction of Presentational and Container Components】(https://medium.com/@yuvto.0420/build-robust-and-maintainable-react-components-27d3ab6ea28e)
 
+## インタビュー記事
+(カナダでの3年間)[https://frogagent.com/interview/yuto/]
+
 ## 職務経歴詳細
 
 ### 株式会社 Penetrator

@@ -4,6 +4,9 @@
 - 最近は Python を学んでいます
 - 2021 年から 2024 年までカナダのバンクーバーに住んでいました
 
+## インタビュー記事
+(カナダでの3年間)[https://frogagent.com/interview/yuto/]
+
 # 職務経歴書
 
 - [Webページ](https://ayut0.github.io/yuto-yamakita/)
