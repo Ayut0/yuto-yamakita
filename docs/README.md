@@ -1,7 +1,9 @@
 # 職務経歴書
 
 # 要約
-80&Company にインターンとして入社後、UX の向上やシステムパフォーマンスの最適化、国際化対応の実装を担当。20 個以上の再利用可能なフロントエンドコンポーネントを実装および Web サイトのパフォーマンス向上に貢献。その後、Fresh Tracks Canada に入社し A / Bテストを通じて予約件数を 40% 増加させる成果を達成。
+大学卒業後、大手製造業にて法人営業としての勤務を経てカナダに渡航。現地のカレッジにてWeb開発を学ぶ。
+
+卒業後、80&Company にインターンとして入社後、UX の向上やシステムパフォーマンスの最適化、国際化対応の実装を担当。20 個以上の再利用可能なフロントエンドコンポーネントを実装および Web サイトのパフォーマンス向上に貢献。その後、Fresh Tracks Canada に入社し A / Bテストを通じて予約件数を 40% 増加させる成果を達成。
 後にフリーランスエンジニアに転身し株式会社Penetratorに参画。主にフロントエンドエンジニアとして新規機能の開発等を行いながら、バックエンド開発にも貢献。
 
 エンジニアのみならずデザイナー、QA、プロダクトマネージャーなどの多職種との円滑なコミュニケーションを得意とし、チームの生産性向上に寄与。
@@ -15,7 +17,15 @@
 | 居住地   | 三重県（東京エリアに引越し予定）        |
 | 最終学歴 | 名城大学 理工学部 メカトロニクス工学科 |
 
-業界未経験として  2021 年からカナダのバンクーバーに渡航し、現地の専門学校にて Web 開発の基礎を学習。卒業後、日本およびカナダの企業にてソフトウェアエンジニアとしてキャリアを積み、多様なプロジェクトに従事しています。
+## バリューを発揮しやすい業務
+
+- ステークホルダーを巻き込んだ課題解決
+- 少人数チームでの主体的行動
+  - ミーティングのファシリテート
+  - プルリクエストのレビュー
+  - タスクの定義
+- ドキュメント作成
+  - 日本語、英語ともに可能
 
 ## 意欲・興味
 
@@ -35,7 +45,7 @@
 
 ### フレームワーク等
 
-- React, Next.js, FastAPI,  Node.js, Express.js TailwindCSS, MUI, Framer Motion, Jest, pytest, Tanstack Query
+- React, Next.js, FastAPI,  Node.js, Express.js TailwindCSS, MUI, Framer Motion, Jest, pytest, Tanstack Query, zod
 
 ### 通信プロトコル
 
@@ -55,12 +65,10 @@
 
 ## 技術記事
 
-- 【React Interview Questions for Junior Developers】(https://medium.com/@yuvto.0420/react-interview-questions-for-junior-developers-9f21068ee0aa)
-- 【What is a Dependency Inversion Principle?】(https://medium.com/@yuvto.0420/what-is-a-dependency-inversion-principle-b14469d28167)
-- 【Introduction of Presentational and Container Components】(https://medium.com/@yuvto.0420/build-robust-and-maintainable-react-components-27d3ab6ea28e)
+- [React Interview Questions for Junior Developers](https://medium.com/@yuvto.0420/react-interview-questions-for-junior-developers-9f21068ee0aa)
+- [What is a Dependency Inversion Principle?](https://medium.com/@yuvto.0420/what-is-a-dependency-inversion-principle-b14469d28167)
+- [Introduction of Presentational and Container Components](https://medium.com/@yuvto.0420/build-robust-and-maintainable-react-components-27d3ab6ea28e)
 
-## インタビュー記事
-(カナダでの3年間)[https://frogagent.com/interview/yuto/]
 
 ## 職務経歴詳細
 
@@ -128,7 +136,7 @@
 
 11 名のチームのメンバーとして参加。
 
-Unit test を書いていなかったためバグの検知がチームメンバーによる QA に頼っている状態であった。そこで Unit test を導入しサービスの安定性を向上させる。
+フロントエンドのUnit test を書いていなかったためバグの検知がチームメンバーによる QA に頼っている状態であった。そこで Unit test を導入しサービスの安定性を向上させる。
 
 【チームでの役割】
 
@@ -366,7 +374,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【プロダクト概要】
 
-【大手アイスクリームショップのモバイルオーダーのシステム構築】(https://order.31ice.co.jp/?utm_source=hp_header&utm_medium=banner&_gl=1*52oqd*_ga*ODEzODQzMTI0LjE3MzM2MzU3NTk.*_ga_W4WLB7VJWK*MTczMzYzNTc1OS4xLjEuMTczMzYzNTc2MC41OS4wLjA.&_ga=2.200631022.1122627933.1733635759-813843124.1733635759)
+[大手アイスクリームショップのモバイルオーダーのシステム構築](https://order.31ice.co.jp/?utm_source=hp_header&utm_medium=banner&_gl=1*52oqd*_ga*ODEzODQzMTI0LjE3MzM2MzU3NTk.*_ga_W4WLB7VJWK*MTczMzYzNTc1OS4xLjEuMTczMzYzNTc2MC41OS4wLjA.&_ga=2.200631022.1122627933.1733635759-813843124.1733635759)
 
 【チームの特徴・課題】
 
@@ -516,7 +524,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【プロダクト概要】
 
-【既存 EC サイトのリプレイス】(https://luluti.jp/)
+[既存 EC サイトのリプレイス](https://luluti.jp/)
 
 サブスクリプション型の EC サイトの開発
 
@@ -592,5 +600,8 @@ FA 業界
 - TOEIC 795 点(2021 年 7 月取得)
 - CELPIP Overall 8 (IELTS 6.5 相当) ※カナダの移民局が定める基準に従って換算
 
-- 【YOUTRUST】(https://youtrust.jp/users/yuto-yamakita)
-- 【LinkedIn】(https://www.linkedin.com/in/yuto-yamakita/)
+## インタビュー記事
+- [カナダでの3年間](https://frogagent.com/interview/yuto/)
+
+## LinkedIn アカウント
+- [LinkedIn](https://www.linkedin.com/in/yuto-yamakita/)
