@@ -64,9 +64,9 @@
 
 ## 技術記事
 
-- 【React Interview Questions for Junior Developers】(https://medium.com/@yuvto.0420/react-interview-questions-for-junior-developers-9f21068ee0aa)
-- 【What is a Dependency Inversion Principle?】(https://medium.com/@yuvto.0420/what-is-a-dependency-inversion-principle-b14469d28167)
-- 【Introduction of Presentational and Container Components】(https://medium.com/@yuvto.0420/build-robust-and-maintainable-react-components-27d3ab6ea28e)
+- [React Interview Questions for Junior Developers](https://medium.com/@yuvto.0420/react-interview-questions-for-junior-developers-9f21068ee0aa)
+- [What is a Dependency Inversion Principle?](https://medium.com/@yuvto.0420/what-is-a-dependency-inversion-principle-b14469d28167)
+- [Introduction of Presentational and Container Components](https://medium.com/@yuvto.0420/build-robust-and-maintainable-react-components-27d3ab6ea28e)
 
 
 ## 職務経歴詳細
@@ -373,7 +373,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【プロダクト概要】
 
-【大手アイスクリームショップのモバイルオーダーのシステム構築】(https://order.31ice.co.jp/?utm_source=hp_header&utm_medium=banner&_gl=1*52oqd*_ga*ODEzODQzMTI0LjE3MzM2MzU3NTk.*_ga_W4WLB7VJWK*MTczMzYzNTc1OS4xLjEuMTczMzYzNTc2MC41OS4wLjA.&_ga=2.200631022.1122627933.1733635759-813843124.1733635759)
+[大手アイスクリームショップのモバイルオーダーのシステム構築](https://order.31ice.co.jp/?utm_source=hp_header&utm_medium=banner&_gl=1*52oqd*_ga*ODEzODQzMTI0LjE3MzM2MzU3NTk.*_ga_W4WLB7VJWK*MTczMzYzNTc1OS4xLjEuMTczMzYzNTc2MC41OS4wLjA.&_ga=2.200631022.1122627933.1733635759-813843124.1733635759)
 
 【チームの特徴・課題】
 
@@ -523,7 +523,7 @@ UX リサーチチームが考案した戦略を元にデザイナーがデザ�
 
 【プロダクト概要】
 
-【既存 EC サイトのリプレイス】(https://luluti.jp/)
+[既存 EC サイトのリプレイス](https://luluti.jp/)
 
 サブスクリプション型の EC サイトの開発
 
@@ -600,7 +600,7 @@ FA 業界
 - CELPIP Overall 8 (IELTS 6.5 相当) ※カナダの移民局が定める基準に従って換算
 
 ## インタビュー記事
-- 【カナダでの3年間】[https://frogagent.com/interview/yuto/]
+- [カナダでの3年間](https://frogagent.com/interview/yuto/)
 
 ## LinkedIn アカウント
-- 【LinkedIn】(https://www.linkedin.com/in/yuto-yamakita/)
+- [LinkedIn](https://www.linkedin.com/in/yuto-yamakita/)
