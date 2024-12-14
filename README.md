@@ -5,7 +5,7 @@
 - 2021 年から 2024 年までカナダのバンクーバーに住んでいました
 
 ## インタビュー記事
-(カナダでの3年間)[https://frogagent.com/interview/yuto/]
+- [カナダでの3年間](https://frogagent.com/interview/yuto/)
 
 # 職務経歴書
 
