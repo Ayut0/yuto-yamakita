@@ -1,7 +1,7 @@
 # 職務経歴書
 
 # 要約
-大学卒業後、大手製造業にて法人営業として勤務した後、カナダに渡航。現地のカレッジにてWeb開発を学ぶ。
+大学卒業後、大手製造業にて法人営業として勤務を経てカナダに渡航。現地のカレッジにてWeb開発を学ぶ。
 
 卒業後、80&Company にインターンとして入社後、UX の向上やシステムパフォーマンスの最適化、国際化対応の実装を担当。20 個以上の再利用可能なフロントエンドコンポーネントを実装および Web サイトのパフォーマンス向上に貢献。その後、Fresh Tracks Canada に入社し A / Bテストを通じて予約件数を 40% 増加させる成果を達成。
 後にフリーランスエンジニアに転身し株式会社Penetratorに参画。主にフロントエンドエンジニアとして新規機能の開発等を行いながら、バックエンド開発にも貢献。
@@ -25,7 +25,6 @@
   - プルリクエストのレビュー
   - タスクの定義
 - ドキュメント作成
-  - 日本語、英語ともに可能
 
 ## 意欲・興味
 
@@ -45,7 +44,7 @@
 
 ### フレームワーク等
 
-- React, Next.js, FastAPI,  Node.js, Express.js TailwindCSS, MUI, Framer Motion, Jest, pytest, Tanstack Query
+- React, Next.js, FastAPI,  Node.js, Express.js TailwindCSS, MUI, Framer Motion, Jest, pytest, Tanstack Query, zod
 
 ### 通信プロトコル
 
