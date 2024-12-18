@@ -1,6 +1,6 @@
 # 職務経歴書
 
-# 要約
+## 要約
 
 大学卒業後、大手製造業にて法人営業としての勤務を経てカナダに渡航。現地のカレッジにて Web 開発を学ぶ。
 
@@ -628,7 +628,3 @@ FA 業界
 
 - TOEIC 795 点(2021 年 7 月取得)
 - CELPIP Overall 8 (IELTS 6.5 相当) ※カナダの移民局が定める基準に従って換算
-
-## LinkedIn アカウント
-
-- [LinkedIn](https://www.linkedin.com/in/yuto-yamakita/)
