@@ -1,11 +1,12 @@
 # 基本情報
 
-- 自社開発企業にてソフトウェアエンジニアとして働いています
-- 最近は Python やWeb APIについて学んでいます
+- 都内のFintech企業にてソフトウェアエンジニアとして働いています
+- 最近は Software Architectureについて学んでいます
 - 2021 年から 2024 年までカナダのバンクーバーに住んでいました
 
 ## インタビュー記事
 - [カナダでの3年間](https://frogagent.com/interview/yuto/)
+- [UPSIDER 入社エントリー](https://note.com/upsider_inc/n/n31b07b1a38b1)
 
 # 職務経歴書
 
