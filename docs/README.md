@@ -99,6 +99,7 @@
 【インフラ】
 
 - GCP
+- Kubernetes
 
 【OS】
 
@@ -108,6 +109,10 @@
 
 - REST
 - gRPC
+
+【ツール】
+
+- Docker, GitHub, GitHub Actions, PostgreSQL, OpenAPI, Storybook, Vitest, Grafana Loki, ArgoCD
 
 【プロダクトが属する業界】
 
