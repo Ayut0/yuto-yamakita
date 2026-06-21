@@ -96,6 +96,18 @@
 
 - TypeScript, React, Vue, Kotlin, Go
 
+【インフラ】
+
+- GCP
+
+【OS】
+
+- macOS
+
+【通信プロトコル】
+
+- REST
+
 【プロダクトが属する業界】
 
 フィンテック業界
