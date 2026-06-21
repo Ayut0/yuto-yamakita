@@ -114,6 +114,14 @@
 
 - Docker, GitHub, GitHub Actions, PostgreSQL, OpenAPI, Storybook, Vitest, Grafana Loki, ArgoCD
 
+【コミュニケーション】
+
+- Slack
+
+【ドキュメント】
+
+- Notion, Figjam
+
 【プロダクトが属する業界】
 
 フィンテック業界
